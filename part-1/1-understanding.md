@@ -1,40 +1,34 @@
-# 认知篇
+# Capítulo de Consciência
 
-本篇从认知层面，谈谈在学习英语之前，应该做的一些功课。
+Neste capítulo, abordaremos o aspecto da consciência e discutiremos algumas preparações necessárias antes de aprender inglês.
 
-## 为什么我们应该学好英语
+## Por que devemos aprender inglês
 
-首先我们应该明白 **英语** 是一门使用 **广泛** 的语言，其广泛程度可以从维基百科的用户结构窥探一二：
+Primeiramente, devemos entender que o **inglês** é uma língua **amplamente** utilizada. A amplitude do seu uso pode ser observada na estrutura de usuários da Wikipedia:
 ![https://upload.wikimedia.org/wikipedia/commons/a/ae/WebsiteContentLanguages.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/WebsiteContentLanguages.svg/2000px-WebsiteContentLanguages.svg.png)
-英语作为全球使用范围最广的语言，涵盖了人生活的方方面面。
-无论是简单的信息交流还是严谨的书籍文献，英语的使用都占有很大的比例。
-学好英语，就如同打开了一扇新的世界的门，可以不再被禁锢于原有的获取信息的渠道，可以看到比中文世界更多更丰富的内容。
+O inglês é a língua mais amplamente utilizada globalmente, abrangendo diversos aspectos da vida. Seja na simples troca de informações ou na rigorosa literatura acadêmica, o inglês tem uma grande participação. Dominar o inglês é como abrir uma nova porta para um mundo, permitindo-nos explorar conteúdos mais diversos e ricos do que o mundo de língua chinesa.
 
-作为互联网从业人员，对英语的要求更高，因为新的技术往往第一时间以英语的形式存在，而且不恰当的翻译，会对我们对互联网的理解产生不好的影响。
-同时得益于我们所处的领域，通常可以更快地掌握优秀的工具，我们可以让英语学习变得更加高效。
+Para profissionais da internet, a exigência em relação ao inglês é ainda maior, pois as novas tecnologias frequentemente se apresentam primeiro em inglês. Além disso, traduções inadequadas podem prejudicar nossa compreensão da internet. Graças ao campo em que trabalhamos, geralmente conseguimos dominar ferramentas excelentes, tornando nosso aprendizado de inglês mais eficiente.
 
-## 学习金字塔理论
+## Teoria da Pirâmide de Aprendizagem
 
-美国学者艾德格·戴尔（Edgar Dale）在 1969 年曾经提出过一个“学习金字塔”理论 (The Cone of Learning)，该理论认为，在初次学习两个星期后，通过阅读学习能够记住内容的 10%；通过听讲学习能够记住内容的 20%；通过图片学习能够记住内容的 30%；通过影像、展览、示范、现场观摩来学习能够记住 50%；参与讨论、提问、发言等方式能够记住 70%；做报告、教学、模拟体验、实际操作能够记住 90%。
+O acadêmico americano Edgar Dale propôs a teoria da "Pirâmide de Aprendizagem" em 1969, que argumenta que, após duas semanas de aprendizado inicial, a leitura permite lembrar 10% do conteúdo; a audição permite lembrar 20%; imagens, 30%; vídeos, exposições, demonstrações e observações ao vivo permitem lembrar 50%; participação em discussões, perguntas e falas permitem lembrar 70%; apresentação, ensino, simulação e operação prática permitem lembrar 90%.
 ![ConeofLearning-old.png](../assets/ConeofLearning-old.png)
 
-这一理论在语言学习领域有非常广泛的应用。
-对于语言学习来说，仅仅依靠读和听这两种被动的方式来学习，效果并不理想，因为学习者对知识点的理解只停留在浅层上。
-效率更高的方式应该是让学习者主动参与，通过查词典，做笔记，练习等方式来加深对知识点的理解。
+Essa teoria é amplamente aplicada no campo de aprendizado de idiomas. No caso do aprendizado de línguas, depender apenas da leitura e audição, que são formas passivas de aprendizado, não é ideal, pois a compreensão do aprendiz fica superficial. Uma abordagem mais eficaz é envolver ativamente o aprendiz, seja consultando dicionários, fazendo anotações ou praticando para aprofundar a compreensão dos pontos de conhecimento.
 
-## 该如何学习英语
+## Como aprender inglês
 
-我们都曾经历过应试教育的阶段，魔鬼训练，寒窗苦读，起早贪黑，小有成就，志得意满，甚至有不少人认为学习本该如此，是一件痛苦的事情。
-高中时期，我在一个学历压力较大的环境中。我的舍友，中考分别是全县第一（特招生，学校除了给他免掉所有费用还额外每学期发 5000 奖学金）、全县第二和全县第八。
-全县第一和全县第二这两个家伙都属于"天才型"，带着个小眼镜，总是一脸好奇的表情，看起来大概小学五年级的样子。
-为了让自己具有高昂的斗志，我找班主任将我们的座位进行了一番调整，全县第一跟我同桌，第二在我前面一排。
+Todos nós passamos pela fase de educação voltada para exames, com treinamento árduo, estudo intenso, acordar cedo e dormir tarde. Alguns alcançaram certo sucesso, sentiram-se realizados, e muitos acreditam que o aprendizado deveria ser assim, uma experiência dolorosa.
+Durante o ensino médio, vivi em um ambiente de grande pressão acadêmica. Meu colega de quarto, que ficou em primeiro lugar no exame de admissão (um estudante especial, a escola não só isentou todas as suas despesas, mas também lhe concedeu uma bolsa de estudos adicional de 5000 a cada semestre), ficou em segundo e oitavo lugar no exame do condado.
+Os dois melhores colegas do condado eram tipos "geniais", usando óculos e sempre com uma expressão de curiosidade, pareciam ter cerca de cinco anos de idade. Para dar a mim mesmo uma motivação elevada, pedi ao meu professor para rearranjar nossos lugares na sala de aula, colocando o primeiro colocado ao meu lado e o segundo na fileira da frente.
 
-- 每天早上，我 5 点 20 起床，到操场，开始我的背诵之旅。
-- 午自习，我待在教室，把时间用来"学习"，快上课时眯一会。
-- 吃晚饭时我总是最早离开食堂，用百米冲刺的速度回到教室。
-- 晚自习结束后回到宿舍，匆忙的洗漱后，便上床开始看书，过一会，宿舍灯关了，便悄悄打开小台灯。
-  我争分夺秒，在考试中却屡战屡败，我调整心态，愈挫愈勇，可是成绩排名却直线下降，有一次的年级排名掉到了 500+，我几乎陷入了绝望。
-  我不知道为什么我如此努力的学习，成绩反而会下降。反观我的同桌，他把刚拿到的奖学金买了一台笔记本，上课的时候偷偷看美剧，成绩总是稳定的排在第一。
+- Todas as manhãs, eu acordava às 5h20, ia para o campo e começava minha jornada de memorização.
+- Durante o intervalo, eu ficava na sala de aula, usando o tempo para "estudar" e cochilando rapidamente antes da próxima aula.
+- Sempre saía do refeitório mais cedo durante o jantar, correndo de volta para a sala de aula em uma corrida de 100 metros.
+- Depois do estudo noturno, de volta ao dormitório, após me lavar às pressas, ia para a cama e começava a ler. Em um instante, as luzes do dormitório se apagavam, e eu secretamente acendia uma pequena lâmpada.
+  Eu lutava contra o tempo, mas continuava falhando nos exames. Ajustava minha mentalidade, ficava mais forte depois de cada derrota, mas minha classificação continuava caindo drasticamente. Em uma ocasião, minha classificação na série caiu para mais de 500, quase entrei em desespero.
+  Eu não sabia por que, mesmo estudando tão intensamente, minhas notas estavam diminuindo. Em comparação, meu colega, que comprou um notebook com a bolsa que acabara de receber, assistia a séries durante as aulas e sempre mantinha suas notas no topo.
 
 WHY ？
 
